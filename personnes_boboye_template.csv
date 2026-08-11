@@ -1,0 +1,2 @@
+﻿label,id_individu,id_menage,nom_individu,sexe,date_naissance,age,lien_chef,statut_residence,village,statut_suivi,date_dernier_suivi,grossesse_actuelle,date_detection_grossesse,age_gestation_mois,nb_cpn,issue_grossesse,enfant_moins5,vaccination_complete,cps,vitamine_a,pb,depistage_hta,ta_systolique,ta_diastolique,depistage_diabete,glycemie,reference
+IND0001 - Exemple,IND0001,MEN001,Exemple,2,2000-01-15,26,chef,resident,donoudibi,actif,2026-08-11,0,,,,,0,,0,0,,0,,,0,,0
